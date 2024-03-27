@@ -1,0 +1,7 @@
+{
+  "package_name": "bistable_interfaces",
+  "non_idl_tuples": [
+    "/home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces:msg/GamepadData.msg",
+    "/home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces:msg/TrackingData.msg"
+  ]
+}

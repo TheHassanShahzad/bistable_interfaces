@@ -1,0 +1,2 @@
+float32 inclination
+float32 yaw_vel

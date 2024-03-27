@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from bistable_interfaces/msg/TrackingData.msg
+// generated code does not contain a copyright notice
+
+
+module bistable_interfaces {
+  module msg {
+    struct TrackingData {
+      float inclination;
+
+      float yaw_vel;
+    };
+  };
+};

@@ -1,0 +1,17 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/bistable_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/bistable_interfaces/msg/detail/dds_fastrtps/gamepad_data__type_support.cpp.o"
+  "CMakeFiles/bistable_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/bistable_interfaces/msg/detail/dds_fastrtps/gamepad_data__type_support.cpp.o.d"
+  "CMakeFiles/bistable_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/bistable_interfaces/msg/detail/dds_fastrtps/tracking_data__type_support.cpp.o"
+  "CMakeFiles/bistable_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/bistable_interfaces/msg/detail/dds_fastrtps/tracking_data__type_support.cpp.o.d"
+  "libbistable_interfaces__rosidl_typesupport_fastrtps_cpp.pdb"
+  "libbistable_interfaces__rosidl_typesupport_fastrtps_cpp.so"
+  "rosidl_typesupport_fastrtps_cpp/bistable_interfaces/msg/detail/dds_fastrtps/gamepad_data__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/bistable_interfaces/msg/detail/dds_fastrtps/tracking_data__type_support.cpp"
+  "rosidl_typesupport_fastrtps_cpp/bistable_interfaces/msg/detail/gamepad_data__rosidl_typesupport_fastrtps_cpp.hpp"
+  "rosidl_typesupport_fastrtps_cpp/bistable_interfaces/msg/detail/tracking_data__rosidl_typesupport_fastrtps_cpp.hpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/bistable_interfaces__rosidl_typesupport_fastrtps_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

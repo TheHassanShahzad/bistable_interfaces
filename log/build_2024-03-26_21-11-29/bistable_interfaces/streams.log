@@ -1,0 +1,172 @@
+[0.062s] Invoking command in '/home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/build/bistable_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/the_hassan_shahzad/ros2_ws/src/BiStable_scripts/install/BiStable_scripts:/home/the_hassan_shahzad/ros2_ws/install/true_a24_description:/home/the_hassan_shahzad/ros2_ws/install/simple_robot_arm_description:/home/the_hassan_shahzad/ros2_ws/install/pybullet_main_description:/home/the_hassan_shahzad/ros2_ws/install/my_py_pkg:/home/the_hassan_shahzad/ros2_ws/install/irc_ros_dashboard:/home/the_hassan_shahzad/ros2_ws/install/a24_description:/home/the_hassan_shahzad/ros2_ws/install/Versa4_description:/home/the_hassan_shahzad/ros2_ws/install/RoboPipe:/home/the_hassan_shahzad/ros2_ws/install/BiStable_description:/opt/ros/humble /usr/bin/cmake --build /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/build/bistable_interfaces -- -j16 -l16
+[0.093s] [35m[1mConsolidate compiler generated dependencies of target bistable_interfaces__rosidl_generator_c[0m
+[0.100s] [  2%] Built target bistable_interfaces__cpp
+[0.100s] [ 12%] Built target bistable_interfaces__rosidl_generator_c
+[0.105s] [ 12%] Built target ament_cmake_python_copy_bistable_interfaces
+[0.107s] [35m[1mConsolidate compiler generated dependencies of target bistable_interfaces__rosidl_typesupport_cpp[0m
+[0.107s] [35m[1mConsolidate compiler generated dependencies of target bistable_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[0.107s] [35m[1mConsolidate compiler generated dependencies of target bistable_interfaces__rosidl_typesupport_introspection_cpp[0m
+[0.114s] [35m[1mConsolidate compiler generated dependencies of target bistable_interfaces__rosidl_typesupport_fastrtps_c[0m
+[0.117s] [ 23%] Built target bistable_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.117s] [ 33%] Built target bistable_interfaces__rosidl_typesupport_cpp
+[0.118s] [35m[1mConsolidate compiler generated dependencies of target bistable_interfaces__rosidl_typesupport_c[0m
+[0.118s] [35m[1mConsolidate compiler generated dependencies of target bistable_interfaces__rosidl_typesupport_introspection_c[0m
+[0.121s] [ 43%] Built target bistable_interfaces__rosidl_typesupport_introspection_cpp
+[0.123s] [ 53%] Built target bistable_interfaces__rosidl_typesupport_fastrtps_c
+[0.125s] [ 64%] Built target bistable_interfaces__rosidl_typesupport_c
+[0.126s] [ 74%] Built target bistable_interfaces__rosidl_typesupport_introspection_c
+[0.142s] [ 74%] Built target bistable_interfaces
+[0.157s] [ 76%] Built target bistable_interfaces__py
+[0.164s] [35m[1mConsolidate compiler generated dependencies of target bistable_interfaces__rosidl_generator_py[0m
+[0.173s] [ 84%] Built target bistable_interfaces__rosidl_generator_py
+[0.181s] [35m[1mConsolidate compiler generated dependencies of target bistable_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[0.181s] [35m[1mConsolidate compiler generated dependencies of target bistable_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[0.181s] [35m[1mConsolidate compiler generated dependencies of target bistable_interfaces__rosidl_typesupport_c__pyext[0m
+[0.189s] [100%] Built target bistable_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.190s] [100%] Built target bistable_interfaces__rosidl_typesupport_c__pyext
+[0.190s] [100%] Built target bistable_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.296s] running egg_info
+[0.296s] writing bistable_interfaces.egg-info/PKG-INFO
+[0.297s] writing dependency_links to bistable_interfaces.egg-info/dependency_links.txt
+[0.297s] writing top-level names to bistable_interfaces.egg-info/top_level.txt
+[0.298s] reading manifest file 'bistable_interfaces.egg-info/SOURCES.txt'
+[0.298s] writing manifest file 'bistable_interfaces.egg-info/SOURCES.txt'
+[0.314s] [100%] Built target ament_cmake_python_build_bistable_interfaces_egg
+[0.323s] Invoked command in '/home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/build/bistable_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/the_hassan_shahzad/ros2_ws/src/BiStable_scripts/install/BiStable_scripts:/home/the_hassan_shahzad/ros2_ws/install/true_a24_description:/home/the_hassan_shahzad/ros2_ws/install/simple_robot_arm_description:/home/the_hassan_shahzad/ros2_ws/install/pybullet_main_description:/home/the_hassan_shahzad/ros2_ws/install/my_py_pkg:/home/the_hassan_shahzad/ros2_ws/install/irc_ros_dashboard:/home/the_hassan_shahzad/ros2_ws/install/a24_description:/home/the_hassan_shahzad/ros2_ws/install/Versa4_description:/home/the_hassan_shahzad/ros2_ws/install/RoboPipe:/home/the_hassan_shahzad/ros2_ws/install/BiStable_description:/opt/ros/humble /usr/bin/cmake --build /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/build/bistable_interfaces -- -j16 -l16
+[0.412s] Invoking command in '/home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/build/bistable_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/the_hassan_shahzad/ros2_ws/src/BiStable_scripts/install/BiStable_scripts:/home/the_hassan_shahzad/ros2_ws/install/true_a24_description:/home/the_hassan_shahzad/ros2_ws/install/simple_robot_arm_description:/home/the_hassan_shahzad/ros2_ws/install/pybullet_main_description:/home/the_hassan_shahzad/ros2_ws/install/my_py_pkg:/home/the_hassan_shahzad/ros2_ws/install/irc_ros_dashboard:/home/the_hassan_shahzad/ros2_ws/install/a24_description:/home/the_hassan_shahzad/ros2_ws/install/Versa4_description:/home/the_hassan_shahzad/ros2_ws/install/RoboPipe:/home/the_hassan_shahzad/ros2_ws/install/BiStable_description:/opt/ros/humble /usr/bin/cmake --install /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/build/bistable_interfaces
+[0.420s] -- Install configuration: ""
+[0.421s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/ament_index/resource_index/rosidl_interfaces/bistable_interfaces
+[0.421s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces
+[0.421s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg
+[0.421s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/gamepad_data.h
+[0.421s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/tracking_data.h
+[0.421s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail
+[0.421s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/gamepad_data__functions.c
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/tracking_data__functions.h
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/gamepad_data__type_support.h
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/tracking_data__struct.h
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/gamepad_data__functions.h
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/tracking_data__type_support.h
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/tracking_data__functions.c
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/gamepad_data__struct.h
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/rosidl_generator_c__visibility_control.h
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/environment/library_path.sh
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/environment/library_path.dsv
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/lib/libbistable_interfaces__rosidl_generator_c.so
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.422s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/tracking_data__rosidl_typesupport_fastrtps_c.h
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/gamepad_data__rosidl_typesupport_fastrtps_c.h
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/lib/libbistable_interfaces__rosidl_typesupport_fastrtps_c.so
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/gamepad_data__rosidl_typesupport_introspection_c.h
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/tracking_data__type_support.c
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/gamepad_data__type_support.c
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/tracking_data__rosidl_typesupport_introspection_c.h
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/lib/libbistable_interfaces__rosidl_typesupport_introspection_c.so
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/lib/libbistable_interfaces__rosidl_typesupport_c.so
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/gamepad_data.hpp
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/tracking_data__traits.hpp
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/tracking_data__builder.hpp
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/gamepad_data__struct.hpp
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/tracking_data__struct.hpp
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/gamepad_data__traits.hpp
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/gamepad_data__builder.hpp
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/tracking_data.hpp
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/dds_fastrtps
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/tracking_data__rosidl_typesupport_fastrtps_cpp.hpp
+[0.423s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/gamepad_data__rosidl_typesupport_fastrtps_cpp.hpp
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/lib/libbistable_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/gamepad_data__type_support.cpp
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/tracking_data__rosidl_typesupport_introspection_cpp.hpp
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/tracking_data__type_support.cpp
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/include/bistable_interfaces/bistable_interfaces/msg/detail/gamepad_data__rosidl_typesupport_introspection_cpp.hpp
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/lib/libbistable_interfaces__rosidl_typesupport_introspection_cpp.so
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/lib/libbistable_interfaces__rosidl_typesupport_cpp.so
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/environment/pythonpath.sh
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/environment/pythonpath.dsv
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces-0.0.0-py3.10.egg-info
+[0.424s] -- Installing: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.424s] -- Installing: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[0.424s] -- Installing: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.424s] -- Installing: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/__init__.py
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/msg
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/msg/__init__.py
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/msg/_gamepad_data_s.c
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/msg/_tracking_data.py
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/msg/_tracking_data_s.c
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/msg/_gamepad_data.py
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/bistable_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/_bistable_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/libbistable_interfaces__rosidl_generator_py.so
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/_bistable_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/bistable_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/bistable_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.424s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/_bistable_interfaces_s.ep.rosidl_typesupport_c.c
+[0.452s] Listing '/home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces'...
+[0.452s] Listing '/home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/msg'...
+[0.454s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/bistable_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.454s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/bistable_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.454s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/local/lib/python3.10/dist-packages/bistable_interfaces/bistable_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.454s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/lib/libbistable_interfaces__rosidl_generator_py.so
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/msg/GamepadData.idl
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/msg/TrackingData.idl
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/msg/GamepadData.msg
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/msg/TrackingData.msg
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/ament_index/resource_index/package_run_dependencies/bistable_interfaces
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/ament_index/resource_index/parent_prefix_path/bistable_interfaces
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/environment/ament_prefix_path.sh
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/environment/ament_prefix_path.dsv
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/environment/path.sh
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/environment/path.dsv
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/local_setup.bash
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/local_setup.sh
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/local_setup.zsh
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/local_setup.dsv
+[0.455s] -- Installing: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/package.dsv
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/ament_index/resource_index/packages/bistable_interfaces
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/export_bistable_interfaces__rosidl_generator_cExport.cmake
+[0.455s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/export_bistable_interfaces__rosidl_generator_cExport-noconfig.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/export_bistable_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/export_bistable_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/bistable_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/bistable_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/bistable_interfaces__rosidl_typesupport_cExport.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/bistable_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/export_bistable_interfaces__rosidl_generator_cppExport.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/export_bistable_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/export_bistable_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/bistable_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/bistable_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/bistable_interfaces__rosidl_typesupport_cppExport.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/bistable_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/export_bistable_interfaces__rosidl_generator_pyExport.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/export_bistable_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/rosidl_cmake-extras.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/bistable_interfacesConfig.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/cmake/bistable_interfacesConfig-version.cmake
+[0.456s] -- Up-to-date: /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/install/bistable_interfaces/share/bistable_interfaces/package.xml
+[0.458s] Invoked command in '/home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/build/bistable_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/the_hassan_shahzad/ros2_ws/src/BiStable_scripts/install/BiStable_scripts:/home/the_hassan_shahzad/ros2_ws/install/true_a24_description:/home/the_hassan_shahzad/ros2_ws/install/simple_robot_arm_description:/home/the_hassan_shahzad/ros2_ws/install/pybullet_main_description:/home/the_hassan_shahzad/ros2_ws/install/my_py_pkg:/home/the_hassan_shahzad/ros2_ws/install/irc_ros_dashboard:/home/the_hassan_shahzad/ros2_ws/install/a24_description:/home/the_hassan_shahzad/ros2_ws/install/Versa4_description:/home/the_hassan_shahzad/ros2_ws/install/RoboPipe:/home/the_hassan_shahzad/ros2_ws/install/BiStable_description:/opt/ros/humble /usr/bin/cmake --install /home/the_hassan_shahzad/ros2_ws/src/bistable_interfaces/build/bistable_interfaces
